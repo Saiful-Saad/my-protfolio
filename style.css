@@ -107,6 +107,10 @@ ul a{
     margin-top:0px
 }
 /* main section here */
+main{
+    max-width: 1140px;
+    margin:0 auto;
+}
 
 
 
@@ -115,6 +119,22 @@ ul a{
     padding: 130px;
     background-color: #FFF8F3;
     margin:130px 0px ;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+    line-height: 5px;
+}
+.info-title{
+    font-weight:400;
+  
+}
+.info-desc{
+    font-weight: 800;
+    
 }
 
 
