@@ -107,6 +107,9 @@ ul a{
     margin-top:0px
 }
 /* main section here */
+main section{
+   margin-top: 130px; 
+}
 main{
     max-width: 1140px;
     margin:0 auto;
@@ -142,13 +145,41 @@ main{
 .skill-container{
     display: flex;
     justify-content: space-between;
-   margin-left: 0 10px;
+    gap: 10px;
+   
 }
 .skill{
-    background-color: #faf8f7;
-    padding: 10px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+   
    
   
+}
+.skill-desc{
+    color: #757575;
+}
+.education-container{
+    display: flex;
+    justify-content:space-between;
+    gap: 20px;
+}
+.education{
+
+}
+.educations{
+
+}
+.education-title{
+    font-size:18px;
+}
+.education-institute{
+    font-weight: 400;
+    color: #757575;
+}
+.eduction-heading{
+    font-size: 20px;
 }
 
 
