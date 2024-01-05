@@ -136,5 +136,19 @@ main{
     font-weight: 800;
     
 }
+#what-i-do-desc{
+    padding: 30px 150px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-between;
+   margin-left: 0 10px;
+}
+.skill{
+    background-color: #faf8f7;
+    padding: 10px;
+   
+  
+}
 
 
