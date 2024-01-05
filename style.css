@@ -1,0 +1,58 @@
+
+/* common shared style */
+body{
+    /* /* /* fonts family 
+    /* font-family: 'Fira Sans', sans-serif; */
+font-family: 'Italianno', cursive;
+font-family: 'Montserrat', sans-serif; 
+font-family: 'Open Sans', sans-serif;
+}
+.text-primary{
+    color:#FD6E0A
+}
+.btn-primary{
+    
+   
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border:0;
+    font-weight: ;
+    font-size: 20px;
+    font-weight: 700px;
+    color: white;
+    padding: 15px 35px;
+
+
+   
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-title{
+    color: #181818;
+font-family: Open Sans;
+font-size: 45px;
+font-style: normal;
+font-weight: 800;}
+
+nav > ul{
+    display: flex;
+    align-items: center;
+
+     
+}
+nav li {
+    list-style: none;
+    margin-right: 50px;
+   
+  
+     
+    }
+ul a{
+    text-decoration: none;
+    color: #181818;
+}
+
